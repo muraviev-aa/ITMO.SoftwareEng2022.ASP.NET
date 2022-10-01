@@ -16,13 +16,13 @@ namespace ITMO.ASP.NET.Course2022.Lab.App_Code
 
         public GuestResponse() { }
 
-        public GuestResponse(string name, string email, string phone, bool? willattend) 
-        { 
-            Name = name; 
-            Email = email; 
-            Phone = phone; 
-            WillAttend = willattend; 
-            Rdata = DateTime.Now; 
+        public GuestResponse(string name, string email, string phone, bool? willattend)
+        {
+            Name = name;
+            Email = email;
+            Phone = phone;
+            WillAttend = willattend;
+            Rdata = DateTime.Now;
         }
     }
 }
