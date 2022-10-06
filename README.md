@@ -31,7 +31,7 @@
    
 🚩 <url> &#128194; **Зачетное задание ASP.NET:**</url>
     
- + <strong>&#128448; FinalWork:</strong> настольное Web-приложение FinalWork. 
+ + <strong>&#128448; FinalWork:</strong> Web-приложение FinalWork. 
  + <strong>&#128448; DB:</strong> файлы базы данных.
 ```diff
 login: admin
