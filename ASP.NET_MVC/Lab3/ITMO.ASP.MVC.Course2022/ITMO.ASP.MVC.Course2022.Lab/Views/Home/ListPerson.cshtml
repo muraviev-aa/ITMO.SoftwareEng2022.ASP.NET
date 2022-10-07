@@ -1,0 +1,15 @@
+﻿@model ITMO.ASP.MVC.Course2022.Lab.Models.PersonRepository
+
+@{
+    Layout = "~/Views/_BasicLayout.cshtml";
+    ViewBag.Title = "Главная";
+}
+
+    <div>
+        <h3>Список участников</h3> <p>Персон всего @ViewBag.Count</p>
+        <ul> @foreach (var c in ViewBag.pers)
+        {<li>@c.ToString() </li>} </ul>
+        <p>
+            @Html.ActionLink("На главную", "Index")
+        </p>
+    </div>
