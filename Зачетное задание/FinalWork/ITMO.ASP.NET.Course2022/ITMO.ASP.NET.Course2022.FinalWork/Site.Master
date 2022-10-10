@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ITMO.ASP.NET.Course2022.FinalWork.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <%--<asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>--%>
+    <link href="Styles/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="Main_Page.aspx">Main Page</a></li>
+                    <li><a href="Top_5.aspx">Top 5</a></li>
+                    <li><a href="5_bad.aspx">5 bad</a></li>
+                    <li><a href="Contact.aspx">Contact</a></li>
+                </ul>
+            </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div style="height: 150px" ></div>
+        <footer>
+            <p>&copy; 2022 🐜 Muraviev A & Co</p>
+        </footer>
+    </form>
+</body>
+</html>
