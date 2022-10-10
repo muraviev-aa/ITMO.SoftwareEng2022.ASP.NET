@@ -53,7 +53,5 @@
  + <strong>&#128448; FinalWork:</strong> Web-приложение FinalWork. 
 
 ```diff
-login: admin
-password: admin
 server: SQL Server Express LocalDB
 ```
