@@ -6,7 +6,10 @@
 ## ITMO.SoftwareEng2022.ASP.NET 
 <a name="readme-top"></a>
 ### ИТМО 2022. Разработка приложений в Microsoft ASP.NET
+
+<p align="center">
 <img src="https://ie.wampi.ru/2022/09/29/AASP_NET.jpg" alt="drawing" width="550"/>
+</p>
 
 ***Состав репозитория:***
 
