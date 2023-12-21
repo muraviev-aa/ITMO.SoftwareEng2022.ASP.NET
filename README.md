@@ -9,10 +9,6 @@
 <img src="images/asp.png" alt="drawing" width="550"/>
 
 <p align="center">
-<img src="https://ie.wampi.ru/2022/09/29/AASP_NET.jpg" alt="drawing" width="550"/>
-</p>
->>>>>>> fa79cd3f7515774d6dd5b320f292b9ac91d48684
-
 ***Состав репозитория:***
 
 🚩 <url> &#128194; **ASP.NET_MVC**</url>
