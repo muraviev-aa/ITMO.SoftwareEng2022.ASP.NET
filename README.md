@@ -7,8 +7,8 @@
 ## ITMO.SoftwareEng2022.ASP.NET
 ### ИТМО 2022. Разработка приложений в Microsoft ASP.NET
 <img src="images/asp.png" alt="drawing" width="550"/>
-
 <p align="center">
+ 
 ***Состав репозитория:***
 
 🚩 <url> &#128194; **ASP.NET_MVC**</url>
