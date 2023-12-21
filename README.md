@@ -3,13 +3,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<a name="readme-top"></a>
 ## ITMO.SoftwareEng2022.ASP.NET
 ### ИТМО 2022. Разработка приложений в Microsoft ASP.NET
 <img src="images/asp.png" alt="drawing" width="550"/>
-=======
-## ITMO.SoftwareEng2022.ASP.NET 
-<a name="readme-top"></a>
-### ИТМО 2022. Разработка приложений в Microsoft ASP.NET
 
 <p align="center">
 <img src="https://ie.wampi.ru/2022/09/29/AASP_NET.jpg" alt="drawing" width="550"/>
